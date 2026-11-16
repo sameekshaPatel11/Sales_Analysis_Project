@@ -1,0 +1,125 @@
+Order_ID,Order_Date,Category,Product,Region,Salesperson,Quantity,Unit_Price,Unit_Cost,Payment_Method
+ORD0001,2025-05-06,Electronics,Laptop,South,Diya,3.0,55000,42900.0,UPI
+ORD0002,2025-01-16,Electronics,Monitor,North,Diya,1.0,12000,8400.0,Credit Card
+ORD0003,2025-08-03,Electronics,Mobile,South,Meera,5.0,22000,16500.0,Net Banking
+ORD0004,2025-12-24,Home & Kitchen,Mixer,West,Kabir,2.0,3200,1984.0,Debit Card
+ORD0005,2025-02-22, electronics ,Jeans,North,Meera,3.0,1800,900.0,UPI
+ORD0006,2025-05-16,Home & Kitchen,Bedsheet,North,Meera,5.0,1500,720.0,Net Banking
+ORD0007,2025-10-10,Electronics,Monitor,East,Rohan,1.0,12000,8400.0,Debit Card
+ORD0008,2025-12-05,Clothing,T-Shirt,South,Kabir,1.0,800,360.0,UPI
+ORD0009,23-05-2025,Clothing,T-Shirt,West,Kabir,4.0,800,360.0,Credit Card
+ORD0010,2025-12-10,Home & Kitchen,Bedsheet,East,Aarav,2.0,1500,720.0,Net Banking
+ORD0011,2025-08-25,Clothing,Jeans,West,Kabir,2.0,1800,900.0,Net Banking
+ORD0012,2025-04-28,Clothing,Jacket,north,Kabir,1.0,3500,2030.0,Cash
+ORD0013,2025-10-18,Home & Kitchen,Mixer,East,Diya,2.0,3200,1984.0,Cash
+ORD0014,2025-05-16,Beauty,Makeup Set,South,Diya,2.0,1400,616.0,Net Banking
+ORD0015,2025-07-24,Home & Kitchen,Lamp,East,Diya,5.0,900,378.0,Credit Card
+ORD0016,2025-02-26,Beauty,Skincare Kit,South,Diya,1.0,1800,900.0,Cash
+ORD0017,2025-11-02,Electronics,Monitor,West,Rohan,4.0,12000,8400.0,Debit Card
+ORD0018,2025-05-17,Electronics,Laptop,East,Aarav,5.0,55000,42900.0,Debit Card
+ORD0019,2025-01-02,Beauty,Perfume,East,Rohan,4.0,2200,1012.0,Credit Card
+ORD0020,2025-11-08,Electronics,Headphones,South,Diya,5.0,2500,1375.0,upi 
+ORD0021,2025-06-15,Clothing,T-Shirt,West,Aarav,5.0,800,360.0,UPI
+ORD0022,2025-01-30,Home & Kitchen,Bedsheet,South,Rohan,2.0,1500,720.0,UPI
+ORD0023,2025-09-30,Electronics,Monitor,South,Diya,1.0,12000,8400.0,Cash
+ORD0024,2025-11-07,Clothing,Jacket,West,Diya,5.0,3500,2030.0,Net Banking
+ORD0025,2025-12-10,Clothing,Jacket,East,Meera,4.0,3500,2030.0,Net Banking
+ORD0026,2025-04-26,Beauty,Skincare Kit,North,Kabir,2.0,1800,900.0,UPI
+ORD0027,2025-02-06,Clothing,Jeans,North,Diya,1.0,1800,900.0,UPI
+ORD0028,2025-09-21,Electronics,Headphones,South,,1.0,2500,1375.0,Cash
+ORD0029,2025-10-23,Clothing,Jeans,West,Diya,5.0,1800,900.0,Cash
+ORD0030,2025-02-19,Beauty,Perfume,West,Kabir,1.0,2200,1012.0,Cash
+ORD0031,2025-12-11,Beauty,Makeup Set,North,Aarav,1.0,1400,616.0,Cash
+ORD0032,09-04-2025,Home & Kitchen,Mixer,South,Rohan,2.0,3200,1984.0,Cash
+ORD0033,2025-05-23,Clothing,Shoes,West,Diya,2.0,2800,1456.0,UPI
+ORD0034,2025-11-30,Beauty,Skincare Kit,North,Aarav,1.0,1800,900.0,Credit Card
+ORD0035,2025-09-04,Clothing,Shoes,South,Meera,4.0,2800,1456.0,UPI
+ORD0036,2025-07-19,Clothing,Shoes,East,Meera,1.0,2800,1456.0,Debit Card
+ORD0037,2025-04-08,Beauty,Makeup Set,East,Diya,2.0,1400,616.0,
+ORD0038,2025-01-26,Electronics,Headphones,West,Rohan,1.0,2500,1375.0,Net Banking
+ORD0039,2025-02-11,Clothing,T-Shirt,South,Aarav,5.0,800,360.0,Net Banking
+ORD0040,2025-03-03,Electronics,Mobile,South,Rohan,4.0,22000,16500.0,Net Banking
+ORD0041,2025-12-03,Electronics,Laptop,East,Kabir,4.0,55000,42900.0,Credit Card
+ORD0042,2025-07-22,Home & Kitchen,Cookware Set,South,Kabir,3.0,2400,1320.0,Cash
+ORD0043,2025-08-23,Home & Kitchen,Mixer,North,Aarav,1.0,3200,1984.0,Net Banking
+ORD0044,2025-06-28,Clothing,Jacket,North,Diya,2.0,3500,2030.0,Debit Card
+ORD0045,2025-10-06,Home & Kitchen,Cookware Set,East,Rohan,4.0,2400,1320.0,Net Banking
+ORD0046,2025-03-10,Electronics,Headphones,East,Aarav,1.0,2500,1375.0,UPI
+ORD0047,2025-11-06,Clothing,Jacket,South,Kabir,3.0,3500,2030.0,Credit Card
+ORD0048,2025-01-27,Home & Kitchen,Lamp,North,Meera,3.0,900,378.0,Debit Card
+ORD0049,2025-03-08,Electronics, mobile ,East,Diya,3.0,55000,42900.0,Cash
+ORD0050,2025-02-08,Beauty,Skincare Kit,South,Rohan,1.0,1800,900.0,UPI
+ORD0051,2025-03-07,Home & Kitchen,Cookware Set,North,Kabir,4.0,2400,1320.0,Debit Card
+ORD0052,2025-12-16,Electronics,Headphones,South,Aarav,2.0,2500,1375.0,Debit Card
+ORD0053,2025-03-25,Beauty,Perfume,South,Meera,2.0,2200,1012.0,UPI
+ORD0054,2025-12-09,Clothing,Jacket,South,Kabir,4.0,3500,2030.0,Credit Card
+ORD0055,2025-08-29,Electronics,Monitor,South,Diya,1.0,12000,8400.0,Cash
+ORD0056,2025-04-25,Home & Kitchen,Bedsheet,North,Diya,2.0,1500,720.0,Cash
+ORD0057,2025-05-23,Home & Kitchen,Bedsheet,East,Rohan,1.0,1500,720.0,Cash
+ORD0058,2025-05-14,Home & Kitchen,Mixer,South,Rohan,1.0,3200,1984.0,Debit Card
+ORD0059,2025-08-11,Electronics,Laptop,East,Kabir,5.0,55000,42900.0,Cash
+ORD0060,2025-04-08,Electronics,Monitor,East,Aarav,,12000,8400.0,Cash
+ORD0061,2025-08-09,Electronics,Mobile,North,Kabir,3.0,22000,16500.0,Net Banking
+ORD0062,2025-09-17,Home & Kitchen,Mixer,East,Meera,3.0,3200,1984.0,Debit Card
+ORD0063,2025-03-07,Beauty,Hair Dryer,South,Meera,5.0,1600,912.0,Cash
+ORD0064,2025-10-08,Clothing,Jacket,North,Kabir,4.0,3500,2030.0,Debit Card
+ORD0065,2025-11-07,Clothing,Shoes,East,Meera,5.0,2800,1456.0,Cash
+ORD0066,2025-08-31,Beauty,Perfume,South,Aarav,5.0,2200,1012.0,Debit Card
+ORD0067,2025-12-11,Home & Kitchen,Mixer,East,Diya,2.0,3200,1984.0,Credit Card
+ORD0068,06-05-2025,Clothing,T-Shirt,West,Rohan,1.0,800,360.0,UPI
+ORD0069,2025-04-10,Beauty,Makeup Set,West,Meera,5.0,1400,616.0,Cash
+ORD0070,2025-02-24,Clothing,Jeans,West,Diya,1.0,1800,900.0,Credit Card
+ORD0071,2025-05-08,Beauty,Skincare Kit,North,Meera,5.0,1800,900.0,Credit Card
+ORD0072,2025-11-10,Beauty,Hair Dryer,West,Rohan,4.0,1600,912.0,Cash
+ORD0073,2025-05-13,Clothing,Shoes,South,Kabir,4.0,2800,1456.0,Net Banking
+ORD0074,2025-08-14,,Perfume,North,Kabir,3.0,2200,1012.0,Credit Card
+ORD0075,2025-10-04,Home & Kitchen,Bedsheet,North,Diya,3.0,1500,720.0,Credit Card
+ORD0076,2025-12-28,Clothing,Shoes,South,Aarav,2.0,2800,1456.0,Cash
+ORD0077,2025-08-27,Beauty,Hair Dryer,West,Aarav,5.0,1600,912.0,Credit Card
+ORD0078,2025-12-23,Beauty,Makeup Set,North,Rohan,5.0,1400,616.0,Cash
+ORD0079,2025-06-02,Beauty,Skincare Kit,West,Meera,3.0,1800,900.0,Net Banking
+ORD0080,2025-05-20,Clothing,Shoes,West,Meera,2.0,2800,1456.0,UPI
+ORD0081,2025-03-26,Beauty,Hair Dryer,West,Diya,4.0,1600,912.0,Net Banking
+ORD0082,2025-10-16,Electronics,Monitor,North,Aarav,5.0,12000,8400.0,Cash
+ORD0083,2025-01-26,Clothing,Shoes,East,Meera,2.0,2800,1456.0,Debit Card
+ORD0084,2025-06-22,Clothing,Shoes,West,Kabir,3.0,2800,1456.0,Cash
+ORD0085,2025-01-10,Home & Kitchen,Mixer,North,Kabir,4.0,3200,1984.0,Credit Card
+ORD0086,2025-05-07,Electronics,Laptop,South,Aarav,1.0,55000,42900.0,Net Banking
+ORD0087,2025-08-31,Clothing,Jeans,North,Rohan,2.0,1800,900.0,Credit Card
+ORD0088,2025-03-27,Beauty,Hair Dryer,North,Diya,3.0,1600,912.0,Debit Card
+ORD0089,2025-10-22,Electronics,Laptop,,Meera,3.0,55000,42900.0,Credit Card
+ORD0090,2025-12-23,Electronics,Mobile,East,Rohan,1.0,22000,16500.0,UPI
+ORD0091,2025-08-08,Electronics,Headphones,East,Aarav,5.0,2500,1375.0,Net Banking
+ORD0092,2025-09-08,Home & Kitchen,Mixer,North,Meera,4.0,3200,1984.0,Debit Card
+ORD0093,2025-04-01,Beauty,Perfume,East,Rohan,4.0,2200,1012.0,Net Banking
+ORD0094,2025-10-31,Beauty,Makeup Set,East,Kabir,4.0,1400,616.0,Credit Card
+ORD0095,2025-05-05,Electronics,Headphones,West,Rohan,4.0,2500,1375.0,Net Banking
+ORD0096,2025-09-11,Beauty,Hair Dryer,East,Diya,1.0,1600,912.0,Cash
+ORD0097,2025-06-24,Clothing,Jacket,East,Rohan,3.0,3500,2030.0,Debit Card
+ORD0098,2025-05-04,Electronics,Mobile,West,Meera,1.0,22000,16500.0,Net Banking
+ORD0099,2025-08-18,Clothing,Shoes,North,Aarav,4.0,2800,1456.0,Debit Card
+ORD0100,2025-06-06,Clothing,Shoes,East,Meera,2.0,2800,1456.0,Net Banking
+ORD0101,2025-06-19,Home & Kitchen,Lamp,East,Meera,5.0,900,378.0,Debit Card
+ORD0102,2025-03-03,Home & Kitchen,Bedsheet,South,Kabir,2.0,1500,720.0,UPI
+ORD0103,05-09-2025,Clothing,Jeans,East,Rohan,2.0,1800,900.0,Net Banking
+ORD0104,2025-06-01,Home & Kitchen,Mixer,South,Kabir,2.0,3200,1984.0,Credit Card
+ORD0105,2025-03-06,Home & Kitchen,Mixer,East,Aarav,5.0,3200,1984.0,UPI
+ORD0106,2025-02-22,Home & Kitchen,Cookware Set,North,Rohan,4.0,2400,1320.0,Debit Card
+ORD0107,2025-06-24,Beauty,Makeup Set,South,Aarav,4.0,1400,616.0,Debit Card
+ORD0108,2025-07-25,Beauty,Skincare Kit,West,Aarav,1.0,1800,900.0,Net Banking
+ORD0109,2025-10-16,Electronics,Mobile,East,Aarav,2.0,22000,16500.0,Credit Card
+ORD0110,2025-11-02,Electronics,Monitor,South,Rohan,5.0,12000,8400.0,Cash
+ORD0111,2025-10-29,Beauty,Makeup Set,West,Kabir,3.0,1400,616.0,Net Banking
+ORD0112,2025-11-17,Electronics,Laptop,South,Kabir,2.0,55000,42900.0,UPI
+ORD0113,2025-10-10,Clothing,Jeans,North,Diya,2.0,1800,900.0,UPI
+ORD0114,2025-08-29,Beauty,Makeup Set,East,Aarav,5.0,1400,616.0,Credit Card
+ORD0115,2025-02-06,Home & Kitchen,Bedsheet,South,Kabir,4.0,1500,720.0,Net Banking
+ORD0116,2025-10-06,Clothing,Shoes,South,Diya,1.0,2800,1456.0,Debit Card
+ORD0117,2025-03-26,Clothing,T-Shirt,East,Rohan,1.0,800,360.0,Net Banking
+ORD0118,2025-08-28,Home & Kitchen,Lamp,East,Meera,1.0,900,378.0,Debit Card
+ORD0119,2025-11-03,Beauty,Makeup Set,North,Meera,1.0,1400,616.0,Debit Card
+ORD0120,2025-04-28,Home & Kitchen,Mixer,North,Kabir,1.0,3200,1984.0,Net Banking
+ORD0003,2025-08-03,Electronics,Mobile,South,Meera,5.0,22000,16500.0,Net Banking
+ORD0016,2025-02-26,Beauty,Skincare Kit,South,Diya,1.0,1800,900.0,Cash
+ORD0041,2025-12-03,Electronics,Laptop,East,Kabir,4.0,55000,42900.0,Credit Card
+ORD0076,2025-12-28,Clothing,Shoes,South,Aarav,2.0,2800,1456.0,Cash
